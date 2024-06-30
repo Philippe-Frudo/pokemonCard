@@ -1,0 +1,62 @@
+
+{
+    "pokemons": [
+        {
+            "id": 1,
+            "name": "Bulbizarre",
+            "hp": 25,
+            "cp": 5,
+            "picture": "img (8).jpg",
+            "types": ["Plante", "Poisson"]
+        },
+        {
+           "id": 2,
+            "name": "Salameche",
+            "hp": 28,
+            "cp": 6,
+            "picture": "https://assets.pokemon.com/cms2/img/pokedex/detail/001.png",
+            "types": ["Feu"]
+        },
+        {
+            "id": 3,
+            "name": "Salameche",
+            "hp": 21,
+            "cp": 6,
+            "picture": "img (8).jpg",
+            "types": ["Eau"]
+        },
+        {
+            "id": 4,
+           " name": "Salameche",
+            "hp": 28,
+            "cp": 4,
+            "picture": "img (8).jpg",
+            "types": ["Electrik"]
+        },
+        {
+            "id": 5,
+            "name": "Groupe I",
+            "hp": 19,
+            "cp": 6,
+            "picture": "img (8).jpg",
+           " types": ["Insect"]
+        },
+        {
+            "id": 6,
+            "name": "Melofee",
+            "hp": 23,
+            "cp": 4,
+            "picture": "img (8).jpg",
+            "types": ["Vol"]
+        },
+        {
+            "id": 7,
+            "name": "Sabelette",
+            "hp": 27,
+            "cp": 8,
+            "picture": "img (8).jpg",
+            "types": ["Combat"]
+        }
+    ]
+
+}
